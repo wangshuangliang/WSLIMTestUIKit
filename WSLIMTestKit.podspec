@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "WSLIMTestKit"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "封装IMSDK 基于WS"
 
   # This description is used to generate tags and improve search results.
